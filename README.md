@@ -19,10 +19,11 @@ Buses with a direction ID of 0 will be represented by a red icon while others wi
 Future improvements could be to include the busstops that the buses will pass by on their route. Or more advanced to connect the real time data with a geolocator and estimate when the bus will be at the various stops (or your location). 
 
 **Dependencies:**
-
+MIT educational license for the real time data.
 Mapbox GL JS v1.11.0: For rendering the interactive map.
 Make sure red.png and blue.png images are available in the root directory or adjust the path as necessary.
 Note: Ensure you're adhering to the usage limits and terms of service of both Mapbox and MBTA APIs when deploying or scaling this application.
+
 
 
 
