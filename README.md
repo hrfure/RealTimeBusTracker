@@ -15,6 +15,8 @@ In order to use this you will have to attain your own API key for Mapbox GL
 Load the HTML file in a modern web browser. The map will automatically populate with bus markers upon loading.
 Buses with a direction ID of 0 will be represented by a red icon while others will be represented by a blue icon.
 
+**Future Improvements:**
+Future improvements could be to include the busstops that the buses will pass by on their route. Or more advanced to connect the real time data with a geolocator and estimate when the bus will be at the various stops (or your location). 
 
 **Dependencies:**
 
