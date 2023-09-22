@@ -12,7 +12,7 @@ Uses distinct icons (red.png or blue.png) for buses based on their direction.
 
 **Usage:**
 In order to use this you will have to attain your own API key for Mapbox GL
-Load the HTML file in a modern web browser. The map will automatically populate with bus markers upon loading.
+The map will automatically populate with bus markers upon loading.
 Buses with a direction ID of 0 will be represented by a red icon while others will be represented by a blue icon.
 
 **Future Improvements:**
