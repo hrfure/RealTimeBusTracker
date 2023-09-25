@@ -10,6 +10,9 @@ Asynchronously fetches bus location data from the MBTA API every 15 seconds for 
 Dynamically adds or updates markers based on bus locations.
 Uses distinct icons (red.png or blue.png) for buses based on their direction.
 
+**How to view**
+Go to hrfure.github.io/realtimebustracker to see it in action
+
 **Usage:**
 In order to use this you will have to attain your own API key for Mapbox GL
 The map will automatically populate with bus markers upon loading.
